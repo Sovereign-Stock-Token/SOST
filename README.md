@@ -1,2 +1,2 @@
 # SOST
-An equity token with added value that invests in mining resources and E-WASTE recovery
+A value-added equity token that invests in mining resources and E-WASTE recovery 
